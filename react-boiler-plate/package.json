@@ -4,7 +4,7 @@
   "description": "A boilerplate for all my REACT projects",
   "main": "index.js",
   "scripts": {
-    "start": "./node_modules/.bin/webpack-dev-server"
+    "start": "./node_modules/.bin/webpack-dev-server --host 0.0.0.0"
   },
   "author": "",
   "license": "MIT",

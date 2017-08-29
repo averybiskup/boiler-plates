@@ -23,7 +23,7 @@ render(
   )
   and you must import the component as well
   (
-  import { hello, goodbye } from './json-components/lib'
+  import { hello, goodbye } from './components/lib'
   )
 
 */

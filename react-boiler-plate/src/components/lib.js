@@ -1,6 +1,6 @@
 import React from 'react'
-import text from './../json/titles.json' // importing json
-import './../stylesheets/goodbye.scss' // imporing scss
+import text from './../json/test.json' // importing json
+import './../stylesheets/temp.scss' // imporing scss
 
 export const hello = (
   <h1 id='title' className='hello'>
